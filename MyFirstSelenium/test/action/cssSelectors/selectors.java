@@ -1,5 +1,4 @@
 package MyFirstSelenium.test.action.cssSelectors;
-import win32gui;
 
 public class selectors {
   public String emailAddress = "#identifierId";
